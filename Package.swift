@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "ParentalGate",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v14),
         .visionOS(.v1)
 
     ],

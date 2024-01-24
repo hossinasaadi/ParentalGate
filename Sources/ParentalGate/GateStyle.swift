@@ -8,6 +8,6 @@
 public enum GateStyle {
     
     case math
-    case swipe
+    case slide
     case custom
 }
